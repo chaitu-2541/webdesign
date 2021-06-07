@@ -10,7 +10,7 @@ Web design Using ReactJS
 
 ***bold and italic***
 
-1.Fruits
-    1.Mango
-    2.Apple
-    3.Banana
+1. Fruits
+    1. Mango
+    2. Apple
+    3. Banana
