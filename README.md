@@ -5,5 +5,12 @@ Web design Using ReactJS
 ### heading3
 
 **bold**
+
 *italic*
+
 ***bold and italic***
+
+1.Fruits
+    1.Mango
+    2.Apple
+    3.Banana
