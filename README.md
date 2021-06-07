@@ -6,3 +6,4 @@ Web design Using ReactJS
 
 **bold**
 *italic*
+***bold and italic***
